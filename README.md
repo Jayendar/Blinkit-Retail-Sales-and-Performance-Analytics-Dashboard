@@ -87,7 +87,7 @@ Users can dynamically filter data based on:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Blinkit_Dashboard.png)
 
 ---
 
